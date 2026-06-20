@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+
+# Local build/output folders, if ever
+dist/
+build/
+public/
+
+# Dependencies, if ever
+node_modules/
+
+# Cloudflare local dev
+.wrangler/
+.dev.vars
+
